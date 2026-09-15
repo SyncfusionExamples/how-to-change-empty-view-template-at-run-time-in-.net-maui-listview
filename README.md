@@ -1,6 +1,6 @@
-# how-to-change-empty-view-template-at-run-time-in-.net-maui-listview
+# How to change the EmptyViewTemplate at runtime in .NET MAUI ListView (SfListView)?
 
-This demo shows about how to change the EmptyViewTemplate in .NET MAUI ListView.
+This demo shows about how to change the EmptyViewTemplate at runtime in .NET MAUI ListView (SfListView).
 
 ## Sample
 
